@@ -1,0 +1,95 @@
+html {
+
+     }
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../Lagrek/spidy.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    }   
+header{
+  width: 85%;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 135px;
+  background-color: black;
+  opacity: 0.7;
+  filter: alpha (opacity=70);
+  position: absolute; 
+    }
+.logo {
+    width:120px;
+    height: 150px;
+    background-image: url(../Lagrek/logo1.jpg);
+}
+.tlogo {
+    width: 150px;
+    height: 150px; 
+    background-color:black;  
+    position: relative;
+    bottom: 170px;
+    left: 680px;
+    width: 308px;
+    height: 29px;
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Patua One', cursive;
+}
+.b1{
+    width:200px;
+    height: 25px;
+    position: relative;
+    left:500px;
+    bottom: 65px;
+    border-radius: 10px;
+    background-color: gray;
+}
+.b2{
+    width:200px;
+    height: 25px; 
+    position: relative;
+    left:750px;
+    bottom: 90px;
+     border-radius: 10px;
+       background-color: gray;
+}
+.b3{
+    width:200px;
+    height: 25px;
+    background-color: gray;
+    position: relative;
+    left:1000px;
+    bottom: 115px;
+     border-radius: 10px;
+      text-align: center;
+    text-transform: uppercase;
+    font-family: 'Patua One', cursive;
+} 
+.oBlock{
+    width: 70%;
+    height: 500px;
+    background-color: #a8a8a8;
+   position: relative;
+   left:300px;
+   top:200px;
+   opacity: 0.6;
+     filter: alpha (opacity=70);
+}
+.block1{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+   }
+.st_for_txt {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Patua One', cursive;
+            }
+#txt1{
+    border-color:black;
+    display: none;
+    
+}
